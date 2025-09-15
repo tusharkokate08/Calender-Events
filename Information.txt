@@ -1,0 +1,15 @@
+This repository contains small creative projects built around different calendar events and special occasions. Each project highlights a unique event (festivals, holidays, or important days) with simple implementations using web technologies.
+
+🎯 Purpose
+
+Practice and showcase small projects for various events
+
+Learn and experiment with frontend development concepts
+
+Build a collection of event-based mini applications
+
+🛠 Tech Used
+
+HTML, CSS, JavaScript (base)
+
+Angular (for dynamic frontend)
